@@ -6,3 +6,6 @@ mostly work on three different aspects
 * classical NLP process
 * Deep learning
 * Advance NLP Models
+
+
+Blog to follow for use cases : https://www.ibm.com/cloud/learn/natural-language-processing
