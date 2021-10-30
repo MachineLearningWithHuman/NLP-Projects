@@ -17,4 +17,4 @@ use branch topic-model to see.
 
 Blog to follow for use cases : https://www.ibm.com/cloud/learn/natural-language-processing
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=satyajit maitra)](https://github.com/MachineLearningWithHuman/NLP-Projects/)
+[![satyajit's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username= satyajit maitra)](https://github.com/MachineLearningWithHuman/NLP-Projects/)
